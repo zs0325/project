@@ -1,0 +1,44 @@
+html {
+  height: 100%;
+  width: 100%;
+}
+
+h1 {
+  color: #ff5e00;
+  text-shadow: 2px 2px 2px black;
+  font-family: "Bungee Shade", cursive;
+  text-align: center;
+  font-size: 70px;
+  cursor: pointer;
+}
+
+h2 {
+  text-align: center;
+  font-weight: bold;
+}
+
+img {
+  padding: 40px;
+  margin: 20px;
+  background-color: #f0a8a8;
+}
+
+table {
+  width: 100%;
+  border-collapse: collapse;
+}
+
+th,
+td {
+  padding: 10px;
+  border: 2px solid black;
+  text-align: left;
+}
+
+.contact {
+  text-align: center;
+  font-size: 15px;
+  padding: 40px;
+  margin: 20px;
+  background-color: #80c5f9;
+}

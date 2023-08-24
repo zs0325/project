@@ -1,0 +1,55 @@
+* {
+  box-sizing: border-box;
+}
+
+body {
+  font-family: "Helvetica neue", Helvetica, Arial, sans-serif;
+  overflow-y: scroll;
+  overflow-x: hidden;
+  padding: 30px;
+}
+
+h1 {
+  color: #ff5e00;
+  text-shadow: 2px 2px 2px black;
+  font-family: "Bungee Shade", cursive;
+  text-align: center;
+  font-size: 70px;
+}
+
+.store {
+  color: blue;
+  font-size: 40px;
+  font-family: "Montserrat", sans-serif;
+  text-align: center;
+  background-color: yellow;
+  width: 100%;
+  padding: 40px;
+  margin: 20px;
+}
+
+.menu {
+  color: blue;
+  font-size: 40px;
+  font-family: "Montserrat", sans-serif;
+  text-align: center;
+  background-color: yellow;
+  width: 100%;
+  border: 5px solid yellow;
+  padding: 40px;
+  margin: 20px;
+}
+
+.contact {
+  text-align: center;
+  font-size: 15px;
+  padding: 40px;
+  margin: 20px;
+  background-color: #80c5f9;
+  width: 100%;
+}
+
+.descrip {
+  font-weight: bold;
+  display: block;
+}
